@@ -62,6 +62,8 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [DCG239](https://discord.gg/aDTRemnchA) - DEFCON Group 239, SWFLSec
 - [DCG305](https://discord.gg/GjAw6vhTua) - DEFCON Group 305 - Miami, FL
 - [DC615](https://t.co/tqd0Ewp6HB) - DEFCON Group 615 - Nashville, TN
+- [DC614](https://discord.com/invite/p3KJSHT) - DEFCON Group 614 - Columbus, OH
+- [DC937](https://discord.gg/Exy5FaYDrU) - DEFCON Group 937 - Dayton, OH
 - [DC HHV & SSV](https://discord.gg/FZj45BP5a) - DEFCON Hardware Hacking Village
 - [Digital Forensics](https://discord.gg/xz5v4WvEaC) - Professional Digital Forensics Community, LEO
 - [Digital Overdose](https://discord.gg/digitaloverdose) - Community focused around information security, cybersecurity, ethical hacking and tech in general, that aims to provide a space where anyone can join, discuss and interact
