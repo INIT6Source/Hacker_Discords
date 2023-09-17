@@ -40,6 +40,7 @@ For list of Discords with careers/jobs/work - https://github.com/INIT6Source/Hac
 - [ChipWhisperer Chat](https://discord.gg/WKbT3cX9Yq) - Embedded Security, Side-Channel Power Analysis, and Fault Injection.
 - [Cloud Village](https://discord.gg/7ChUvmEYeF) - DEFCON Cloud Village
 - [CompTIA Study Group](https://discord.gg/G7j2hMKbF4) - CompTIA certification discussion
+- [Control Things](https://discord.gg/ControlThings) - Control Things ICS/OT Security Discord
 - [Crypto & Privacy Village](https://cryptovillage.slack.com/) - Email CryptoVillage@gmail.com to request Slack access
 - [Cyber Council](https://discord.gg/computers) - CTFs, Bug Bounties, Infosec News Discussion
 - [Cyberdeck Cafe](https://discord.gg/5rDpDqwXq2) - Cyberdecks & Cyberdeck Accessories
